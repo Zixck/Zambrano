@@ -174,6 +174,29 @@
     <Content Include="Img\img8.jpg" />
     <Content Include="Img\img9.jpg" />
     <Content Include="Img\logo.png" />
+    <Content Include="Img\pc1.jpg" />
+    <Content Include="Img\pc10.jpg" />
+    <Content Include="Img\pc11.jpg" />
+    <Content Include="Img\pc12.jpg" />
+    <Content Include="Img\pc13.jpg" />
+    <Content Include="Img\pc14.jpg" />
+    <Content Include="Img\pc15.jpg" />
+    <Content Include="Img\pc16.jpg" />
+    <Content Include="Img\pc17.jpg" />
+    <Content Include="Img\pc18.jpg" />
+    <Content Include="Img\pc2.jpg" />
+    <Content Include="Img\pc3.jpg" />
+    <Content Include="Img\pc4.jpg" />
+    <Content Include="Img\pc5.jpg" />
+    <Content Include="Img\pc6.jpg" />
+    <Content Include="Img\pc7.jpg" />
+    <Content Include="Img\pc8.jpg" />
+    <Content Include="Img\pc9.jpg" />
+    <Content Include="Img\slide1.jpg" />
+    <Content Include="Img\slide2.jpg" />
+    <Content Include="Img\slide3.jpg" />
+    <Content Include="Img\slide4.jpg" />
+    <Content Include="Img\slide5.jpg" />
     <Content Include="lib\font-awesome\css\all.css" />
     <Content Include="lib\font-awesome\css\all.min.css" />
     <Content Include="lib\font-awesome\css\brands.css" />
@@ -261,6 +284,13 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Categoría.cshtml" />
+    <Content Include="Views\Home\Ofertas.cshtml" />
+    <Content Include="Views\Home\Historial.cshtml" />
+    <Content Include="Views\Home\TiendasOficiales.cshtml" />
+    <Content Include="Views\Home\MercadoPlay.cshtml" />
+    <Content Include="Views\Home\Vender.cshtml" />
+    <Content Include="Views\Home\Ayuda.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

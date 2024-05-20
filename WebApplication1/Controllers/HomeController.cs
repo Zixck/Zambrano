@@ -26,5 +26,40 @@ namespace WebApplication1.Controllers
 
             return View();
         }
+
+        public ActionResult Categoría()
+        {
+            return View();
+        }
+
+        public ActionResult Ofertas()
+        {
+            return View();
+        }
+
+        public ActionResult Historial()
+        {
+            return View();
+        }
+
+        public ActionResult TiendasOficiales()
+        {
+            return View();
+        }
+
+        public ActionResult MercadoPlay()
+        {
+            return View();
+        }
+
+        public ActionResult Vender()
+        {
+            return View();
+        }
+
+        public ActionResult Ayuda()
+        {
+            return View();
+        }
     }
 }
